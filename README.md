@@ -6,7 +6,7 @@ A simple cross platform calculater app developed by React Native.
 
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-calculator`
+- `git clone https://github.com/CanReader/reactive-calculator`
 - `yarn install`/`npm install`
 
 ### Running
